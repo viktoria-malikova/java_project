@@ -1,0 +1,259 @@
+Best solution: {{},{1},{2,3}}
+Number of realized events: 5
+Population size: 20
+Number of epidemics: 0
+Empire policing time: 11.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{3},{2},{1}} : 10.0 : 0.5666666666666667
+	{{3},{2},{1}} : 10.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1},{3},{2}} : 10.0 : 0.5666666666666667
+
+Best solution: {{},{1},{2,3}}
+Number of realized events: 10
+Population size: 20
+Number of epidemics: 0
+Empire policing time: 11.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{3},{2},{1}} : 10.0 : 0.5666666666666667
+	{{2,3},{},{1}} : 14.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1},{3},{2}} : 10.0 : 0.5666666666666667
+
+Best solution: {{},{1},{2,3}}
+Number of realized events: 15
+Population size: 20
+Number of epidemics: 0
+Empire policing time: 11.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{3},{2},{1}} : 10.0 : 0.5666666666666667
+	{{2,3},{},{1}} : 14.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1},{3},{2}} : 10.0 : 0.5666666666666667
+
+Best solution: {{},{1},{2,3}}
+Number of realized events: 20
+Population size: 20
+Number of epidemics: 0
+Empire policing time: 11.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{3},{2},{1}} : 10.0 : 0.5666666666666667
+	{{2,3},{},{1}} : 14.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1},{3},{2}} : 10.0 : 0.5666666666666667
+
+Best solution: {{},{1,2},{3}}
+Number of realized events: 25
+Population size: 20
+Number of epidemics: 0
+Empire policing time: 19.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{1,2,3},{},{}} : 21.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{3},{}} : 13.0 : 0.5666666666666667
+
+Best solution: {{},{1,2},{3}}
+Number of realized events: 30
+Population size: 20
+Number of epidemics: 0
+Empire policing time: 19.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{},{1,2,3},{}} : 29.0 : 0.5666666666666667
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{1,2,3},{},{}} : 21.0 : 0.5666666666666667
+	{{},{},{1,2,3}} : 20.0 : 0.5666666666666667
+	{{1,2},{3},{}} : 13.0 : 0.5666666666666667
+
+Best solution: {{},{1,2},{3}}
+Number of realized events: 35
+Population size: 20
+Number of epidemics: 0
+Empire policing time: 19.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{},{1,2,3},{}} : 29.0 : 0.5666666666666667
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{1,2,3},{},{}} : 21.0 : 0.5666666666666667
+	{{},{},{1,2,3}} : 20.0 : 0.5666666666666667
+	{{1,2},{3},{}} : 13.0 : 0.5666666666666667
+
+Best solution: {{},{2},{1,3}}
+Number of realized events: 40
+Population size: 21
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{},{1,2,3},{}} : 29.0 : 0.5666666666666667
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{1,2,3},{},{}} : 21.0 : 0.5666666666666667
+	{{},{},{1,2,3}} : 20.0 : 0.5666666666666667
+	{{1,2},{3},{}} : 13.0 : 0.5666666666666667
+
+Best solution: {{},{2},{1,3}}
+Number of realized events: 45
+Population size: 21
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{},{2,3},{1}} : 20.0 : 0.5666666666666667
+	{{1,2,3},{},{}} : 21.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{3},{}} : 13.0 : 0.5666666666666667
+
+Best solution: {{},{2},{1,3}}
+Number of realized events: 50
+Population size: 22
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2,3},{},{}} : 21.0 : 0.5666666666666667
+
+Best solution: {{},{2},{1,3}}
+Number of realized events: 55
+Population size: 27
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2,3},{},{}} : 21.0 : 0.5666666666666667
+
+Best solution: {{},{2},{1,3}}
+Number of realized events: 60
+Population size: 28
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2,3},{},{}} : 21.0 : 0.5666666666666667
+
+Best solution: {{2},{},{1,3}}
+Number of realized events: 65
+Population size: 29
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2,3},{},{}} : 21.0 : 0.5666666666666667
+
+Best solution: {{2},{},{1,3}}
+Number of realized events: 70
+Population size: 29
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+
+Best solution: {{2},{},{1,3}}
+Number of realized events: 75
+Population size: 29
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+
+Best solution: {{2},{},{1,3}}
+Number of realized events: 80
+Population size: 29
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+
+Best solution: {{2},{},{1,3}}
+Number of realized events: 85
+Population size: 29
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+	{{},{2},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+
+Best solution: {{2},{},{1,3}}
+Number of realized events: 90
+Population size: 34
+Number of epidemics: 0
+Empire policing time: 13.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{3},{1},{2}} : 9.0 : 0.6296296296296297
+	{{2},{1},{3}} : 9.0 : 0.6296296296296297
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+
+Best solution: {{2,3},{},{1}}
+Number of realized events: 95
+Population size: 34
+Number of epidemics: 0
+Empire policing time: 14.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{3},{1},{2}} : 9.0 : 0.6296296296296297
+	{{2},{1},{3}} : 9.0 : 0.6296296296296297
+	{{1},{2,3},{}} : 20.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
+
+Best solution: {{2,3},{},{1}}
+Number of realized events: 100
+Population size: 34
+Number of epidemics: 0
+Empire policing time: 14.0
+Comfort: 0.6296296296296297
+Other candidate distributions: 
+	{{3},{1},{2}} : 9.0 : 0.6296296296296297
+	{{2},{1},{3}} : 9.0 : 0.6296296296296297
+	{{1,2},{3},{}} : 13.0 : 0.5666666666666667
+	{{2},{},{1,3}} : 13.0 : 0.5666666666666667
+	{{1,2},{},{3}} : 13.0 : 0.5666666666666667
