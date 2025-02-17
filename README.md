@@ -1,18 +1,27 @@
-# Optimal Patrol Allocation using Evolutionary Programming
+### **Optimal Patrol Allocation using Evolutionary Programming**
 
-## Project Overview
-This project aims to optimize the allocation of patrols across planetary systems to minimize total patrolling time using Evolutionary Programming. The problem is modeled as an Open Shop Scheduling Problem (OSSP) and solved through stochastic simulation techniques. The implementation in **Java** applies object-oriented programming principles to simulate patrol allocation, ensuring efficient distribution through evolutionary operations such as mutation, reproduction, and selection.
+This project implements an **evolutionary programming approach** to solve the **Optimal Patrol Allocation Problem** in planetary systems. The goal is to distribute patrols efficiently across planets to **minimize the total patrol time**, using **stochastic simulation** and **evolutionary algorithms**.
 
-## Implementation Details
-- **Language**: Java
-- **Methodology**: Evolutionary Programming with Stochastic Simulation
-- **Execution**: Command-line interface (CLI)
-- **Key Features**:
-  - Randomized initial allocation
-  - Evolutionary optimization techniques
-  - Real-time monitoring of results
+#### **Key Features:**
+- Object-Oriented Implementation in **Java**  
+- Evolutionary Optimization with **Mutation, Reproduction, and Selection**  
+- Stochastic Simulation to **approximate optimal patrol allocation**  
+- **Command-Line Interface (CLI)** for execution and testing  
+- **Real-time performance monitoring**  
 
-## How to Run the Project
-```sh
-java -jar project.jar -f input.txt
-```
+### **Technologies Used:**
+- **Java** (Object-Oriented Programming)
+- **Evolutionary Algorithms**
+- **Stochastic Simulation**
+- **Command-Line Execution**
+
+#### **How to Run:**
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/viktoria-malikova/java_project.git
+   cd java_project
+   ```
+2. Compile and run the project:  
+   ```sh
+   java -jar project.jar -f input.txt
+   ```
